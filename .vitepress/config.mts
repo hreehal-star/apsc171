@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  title: 'Calculus Course',
+  title: 'APSC 171',
   description: 'Course notes, solutions, and resources',
 
   // Required for GitHub Pages when deploying to a project site
