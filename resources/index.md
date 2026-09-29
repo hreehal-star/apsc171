@@ -1,8 +1,8 @@
-# Course Resources <br><br>
+# Course Resources
 
 # Syllabus
 
-- [Syllabus](/solutions/APSC171_Syllabus_2026)
+- [Syllabus](/resources/APSC171_Syllabus_2026.pdf)
 
 # Assessments
 

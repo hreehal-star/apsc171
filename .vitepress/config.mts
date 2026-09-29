@@ -9,7 +9,7 @@ export default defineConfig({
   // Set to '/' if this becomes a user/org site (https://<user>.github.io/).
   base: '/apsc171/',
 
-  // Enables $...$ / $$...$$ rendering via built-in KaTeX support.
+  // Enables $...$ / $$...$$ rendering via built-in MathJax support.
   markdown: {
     math: true,
   },
@@ -28,8 +28,8 @@ export default defineConfig({
           text: 'notes',
           items: [
             { text: 'Week 1 - Derivatives and Vectors', link: '/notes/week-01.md' },
-            { text: 'Week 2 - Vector-Valued Functions / Parametric Curves', link: '/notes/week-02.md' },
-            { text: 'Week 3 - Parametric TEST: Velocity and Acceleration', link: '/notes/week-03.md' },
+            { text: 'Week 2 - Vector-Valued Functions', link: '/notes/week-02.md' },
+            { text: 'Week 3 - Velocity & Acceleration with Vector-Valued Functions', link: '/notes/week-03.md' },
           ],
         },
       ],
