@@ -1,6 +1,10 @@
 # Solutions
 
-Landing page for worked solutions. Mirrors the unit structure in [Notes](/notes/).
+Tutorials covered so far:
 
-- [Unit 1 Solutions](/solutions/unit-01-limits-solutions)
-- [Unit 2 Solutions](/solutions/unit-02-derivatives-solutions)
+<a href="/apsc171/solutions/APSC171_TUT_1.pdf" target="_blank" rel="noopener noreferrer">Tutorial 1</a><br>
+<a href="/apsc171/solutions/" target="_blank" rel="noopener noreferrer">Tutorial 1 Solution</a> <br><br>
+
+<a href="/apsc171/solutions/APSC171_TUT_2.pdf" target="_blank" rel="noopener noreferrer">Tutorial 2</a> <br>
+<a href="/apsc171/solutions/" target="_blank" rel="noopener noreferrer">Tutorial 2 Solution</a>
+

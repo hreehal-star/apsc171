@@ -1,0 +1,96 @@
+.VitePressHome, .vp-doc div.home-hero {
+  text-align: center;
+}
+
+.vp-doc .home-hero .actions {
+  justify-content: center;
+}
+
+:root {
+  --vp-nav-height: 64px;
+  --vp-nav-bg-color: #ffffff;
+
+  --vp-button-brand-bg: #2563eb;
+  --vp-button-brand-hover-bg: #1d4ed8;
+  --vp-button-brand-border: transparent;
+  --vp-button-brand-text: #ffffff;
+  --vp-button-border-radius: 20px;
+
+  --vp-code-bg: #f1f5f9;
+  --vp-code-font-size: 14px;
+
+  --vp-custom-block-tip-bg: #eff6ff;
+  --vp-custom-block-tip-border: #3b82f6;
+
+  --vp-home-hero-name-color: #000102;
+  --vp-home-hero-text-color: #000102;
+  --vp-home-hero-tagline-color: #000102;
+  --vp-font-size-base: 20px;
+  --vp-home-hero-text-font-size: 56px;
+
+  /* Amount added to every text size below. Change this one value to resize text site-wide. */
+  --font-bump: 2px;
+}
+
+/* Dark Mode */
+.dark {
+  --vp-nav-bg-color: #0f172a;
+  --vp-code-bg: #1e293b;
+
+  --vp-home-hero-name-color: #f8fafc;
+  --vp-home-hero-text-color: #f8fafc;
+  --vp-home-hero-tagline-color: #f8fafc;
+}
+
+html,
+body {
+  font-size: calc(16px + var(--font-bump));
+}
+
+.vp-doc h1 { font-size: calc(28px + var(--font-bump)); }
+.vp-doc h2 { font-size: calc(24px + var(--font-bump)); }
+.vp-doc h3 { font-size: calc(20px + var(--font-bump)); }
+.vp-doc h4 { font-size: calc(18px + var(--font-bump)); }
+@media (min-width: 768px) {
+  .vp-doc h1 { font-size: calc(32px + var(--font-bump)); }
+}
+.vp-doc blockquote > p { font-size: calc(16px + var(--font-bump)); }
+.vp-doc th,
+.vp-doc td { font-size: calc(14px + var(--font-bump)); }
+
+.VPNav .VPNavBarTitle .title { font-size: calc(16px + var(--font-bump)); }
+.VPNav .VPNavBar .VPNavBarMenuLink { font-size: calc(14px + var(--font-bump)); }
+.VPNav .VPFlyout .text,
+.VPNav .VPMenuLink .link,
+.VPNav .VPMenuGroup .title,
+.VPNavScreen .VPNavScreenMenuLink { font-size: calc(14px + var(--font-bump)); }
+
+.VPSidebar .VPSidebarItem .text { font-size: calc(14px + var(--font-bump)); }
+
+.VPDocAside .VPDocAsideOutline .content { font-size: calc(13px + var(--font-bump)); }
+.VPDocAside .VPDocAsideOutline .outline-title,
+.VPDocAside .VPDocOutlineItem .outline-link { font-size: calc(14px + var(--font-bump)); }
+
+body .VPLocalNav .menu,
+body .VPLocalNavOutlineDropdown button { font-size: calc(12px + var(--font-bump)); }
+
+.VPDoc .VPDocFooter .edit-link-button,
+.VPDoc .VPDocFooter .title { font-size: calc(14px + var(--font-bump)); }
+.VPDoc .VPDocFooter .desc { font-size: calc(12px + var(--font-bump)); }
+
+.VPHome .VPFeature .title { font-size: calc(16px + var(--font-bump)); }
+.VPHome .VPFeature .details { font-size: calc(14px + var(--font-bump)); }
+
+
+.VPNavBar .VPNavBarAppearance::before {
+  content: "Change Theme";
+  margin-right: 8px;
+  font-size: calc(14px + var(--font-bump));
+  font-weight: 500;
+  color: var(--vp-c-text-1);
+  white-space: nowrap;
+}
+
+.vp-doc mjx-container { font-size: 120%; }                  /* inline $...$ */
+.vp-doc mjx-container[display="true"] { font-size: 120%; }  /* block $$...$$ */
+

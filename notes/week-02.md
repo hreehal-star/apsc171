@@ -1,5 +1,5 @@
 ---
-title: Unit 2 — Derivatives
+title: Week 2 Notes
 ---
 
 # Unit 2: Derivatives
@@ -15,10 +15,3 @@ $\frac{d}{dx}\left[x^n\right] = n x^{n-1}$
 $$
 \frac{d}{dx}\left[x^n\right] = n x^{n-1}
 $$
-
-## Lecture Recording
-
-<video controls width="100%">
-  <source src="/videos/unit-02-lecture.mp4" type="video/mp4" />
-  Your browser does not support the video tag.
-</video>

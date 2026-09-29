@@ -1,5 +1,5 @@
 ---
-title: Unit 3 — Integrals
+title: Week 3 Notes
 ---
 
 # Unit 3: Integrals
@@ -15,10 +15,3 @@ $\int x^n \, dx = \frac{x^{n+1}}{n+1} + C$
 $$
 \int_a^b f(x)\, dx = F(b) - F(a)
 $$
-
-## Lecture Recording
-
-<video controls width="100%">
-  <source src="/videos/unit-03-lecture.mp4" type="video/mp4" />
-  Your browser does not support the video tag.
-</video>

@@ -2,14 +2,14 @@
 layout: home
 
 hero:
-  name: Calculus Course
-  text: Notes, Solutions & Resources
-  tagline: Course site placeholder — replace with your own summary.
+  name: APSC 171
+  text: Notes, Tutorials & Resources
+  tagline: 
   actions:
     - theme: brand
       text: Go to Notes
       link: /notes/
     - theme: alt
-      text: Course Resources
+      text: Check Course Resources
       link: /resources/
 ---

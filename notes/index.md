@@ -1,7 +1,7 @@
 # Notes
 
-Landing page for lecture notes. List/link units below as they're added.
+Weekly notes to be updated throughout the semester
 
-- [Unit 1 — Limits](/notes/unit-01-limits)
-- [Unit 2 — Derivatives](/notes/unit-02-derivatives)
-- [Unit 3 — Integrals](/notes/unit-03-integrals)
+- [Week 1 - Derivatives and Vectors](/notes/week-01)
+- [Week 2 - Vector-Valued Functions / Parametric Curves](/notes/week-02)
+- [Week 3 - Parametric Curves: Velocity and Acceleration](/notes/week-03)

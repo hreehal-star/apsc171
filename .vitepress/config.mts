@@ -16,41 +16,38 @@ export default defineConfig({
 
   themeConfig: {
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Notes', link: '/notes/' },
-      { text: 'Solutions', link: '/solutions/' },
-      { text: 'Course Resources', link: '/resources/' },
+      { text: 'home', link: '/' },
+      { text: 'notes', link: '/notes/' },
+      { text: 'tutorials', link: '/solutions/' },
+      { text: 'course resources', link: '/resources/' },
     ],
 
     sidebar: {
       '/notes/': [
         {
-          text: 'Notes',
+          text: 'notes',
           items: [
-            { text: 'Unit 1 — Limits', link: '/notes/unit-01-limits' },
-            { text: 'Unit 2 — Derivatives', link: '/notes/unit-02-derivatives' },
-            { text: 'Unit 3 — Integrals', link: '/notes/unit-03-integrals' },
-            // add units here as they're written
+            { text: 'Week 1 - Derivatives and Vectors', link: '/notes/week-01.md' },
+            { text: 'Week 2 - Vector-Valued Functions / Parametric Curves', link: '/notes/week-02.md' },
+            { text: 'Week 3 - Parametric TEST: Velocity and Acceleration', link: '/notes/week-03.md' },
           ],
         },
       ],
 
-      '/solutions/': [
+      '/tutorials/': [
         {
-          text: 'Solutions',
+          text: 'tutorials',
           items: [
-            { text: 'Unit 1 Solutions', link: '/solutions/unit-01-limits-solutions' },
-            { text: 'Unit 2 Solutions', link: '/solutions/unit-02-derivatives-solutions' },
+            { text: 'Week 1 Tutorial', link: '/solutions/unit-01-limits-solutions' },
+            { text: 'Week 2 Tutorial', link: '/solutions/unit-02-derivatives-solutions' },
           ],
         },
       ],
 
       '/resources/': [
         {
-          text: 'Course Resources',
+          // text: Course Resources, 
           items: [
-            { text: 'Syllabus', link: '/resources/syllabus' },
-            { text: 'Formula Sheet', link: '/resources/formula-sheet' },
           ],
         },
       ],
