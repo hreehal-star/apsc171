@@ -21,6 +21,29 @@ These are the main rules to know:
 - **Quotient Rule:** $\frac{d}{dx}\left[\frac{f(x)}{g(x)}\right] = \frac{f'(x)g(x) - f(x)g'(x)}{[g(x)]^2}$
 - **Chain Rule:** $\frac{d}{dx}[f(g(x))] = f'(g(x))g'(x)$
 
+### Common Derivatives
+
+These come up constantly, so it's worth memorizing them. Here $c$ and $a$ are constants (with $a > 0$, $a \neq 1$).
+
+**Constants and Exponentials:**
+
+- $\frac{d}{dx}[c] = 0$
+- $\frac{d}{dx}[e^x] = e^x$
+- $\frac{d}{dx}[a^x] = a^x \ln(a)$
+
+**Logarithms:**
+
+- $\frac{d}{dx}[\ln(x)] = \frac{1}{x}$
+- $\frac{d}{dx}[\log_a(x)] = \frac{1}{x \ln(a)}$
+
+**Trigonometric Functions:**
+
+- $\frac{d}{dx}[\sin(x)] = \cos(x)$
+- $\frac{d}{dx}[\cos(x)] = -\sin(x)$
+- $\frac{d}{dx}[\tan(x)] = \sec^2(x)$
+
+When the inside is a function of $x$ instead of just $x$, combine these with the chain rule. For example, $\frac{d}{dx}[\sin(3x^2)] = \cos(3x^2) \cdot 6x$.
+
 ## Vectors
 
 **Definition:** A vector is a mathematical object that has both a magnitude (length) and a direction. In 2D space, a vector is written as $\vec{v} = \langle v_1, v_2 \rangle$. In 3D space, we just add an extra component (another dimension or axis) so the vector becomes $\vec{v} = \langle v_1, v_2, v_3 \rangle$.

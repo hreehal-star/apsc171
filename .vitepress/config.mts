@@ -30,6 +30,7 @@ export default defineConfig({
             { text: 'Week 1 - Derivatives and Vectors', link: '/notes/week-01.md' },
             { text: 'Week 2 - Vector-Valued Functions', link: '/notes/week-02.md' },
             { text: 'Week 3 - Velocity & Acceleration with Vector-Valued Functions', link: '/notes/week-03.md' },
+            { text: 'Week 4 - Inverse Trigonometric Functions', link: '/notes/week-04.md' },
           ],
         },
       ],
