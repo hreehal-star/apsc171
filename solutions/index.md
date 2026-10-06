@@ -12,5 +12,5 @@ Tutorials covered so far:
 <a href="/apsc171/solutions/APSC171_Tutorial_3_Sol.pdf" target="_blank" rel="noopener noreferrer">Week 3 Tutorial Solutions</a><br><br>
 
 <a href="/apsc171/solutions/APSC171_TUT_4.pdf" target="_blank" rel="noopener noreferrer">Week 4 Tutorial</a> <br>
-<a href="" target="_blank" rel="noopener noreferrer">Week 4 Tutorial Solutions (Not uploaded yet)</a><br><br>
+<a href="/apsc171/solutions/APSC171_Tutorial_4_Sol.pdf" target="_blank" rel="noopener noreferrer">Week 4 Tutorial Solutions</a><br><br>
 
