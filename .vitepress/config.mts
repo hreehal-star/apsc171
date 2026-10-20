@@ -31,6 +31,7 @@ export default defineConfig({
             { text: 'Week 2 - Vector-Valued Functions', link: '/notes/week-02.md' },
             { text: 'Week 3 - Velocity & Acceleration with Vector-Valued Functions', link: '/notes/week-03.md' },
             { text: 'Week 4 - Inverse Trigonometric Functions', link: '/notes/week-04.md' },
+            { text: 'Week 5 - Implicit Derivatives, Related Rates and Optimization', link: '/notes/week-05.md' },
           ],
         },
       ],
