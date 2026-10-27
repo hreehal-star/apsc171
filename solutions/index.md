@@ -1,5 +1,13 @@
 # Solutions
 
+<div class="suggestion-box">
+  <h2 id="suggestion-box">💬 Suggestion Box</h2>
+  <p>Have some feedback or suggestions for your TA? Use the suggestion box! Submissions are anonymous.</p>
+  <a class="suggestion-button" href="https://docs.google.com/forms/d/e/1FAIpQLScdvAnZGjUsCUDBOAepQMUP7LoaN2jH6qogZzc1E04rDiRTRQ/viewform?usp=publish-editor" target="_blank" rel="noopener noreferrer">Open the suggestion form</a>
+</div>
+
+## Tutorials
+
 Tutorials covered so far:
 
 <a href="/apsc171/solutions/APSC171_TUT_1.pdf" target="_blank" rel="noopener noreferrer">Week 1 Tutorial</a><br>

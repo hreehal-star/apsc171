@@ -91,6 +91,35 @@ body .VPLocalNavOutlineDropdown button { font-size: calc(12px + var(--font-bump)
   white-space: nowrap;
 }
 
-.vp-doc mjx-container { font-size: 120%; }                  /* inline $...$ */
+.vp-doc .suggestion-box {
+  margin: 16px 0 32px;
+  padding: 4px 24px 20px;
+  border: 1px solid var(--vp-c-brand-1);
+  border-left-width: 6px;
+  border-radius: 8px;
+  background: var(--vp-c-brand-soft);
+}
+
+.vp-doc .suggestion-box h2 {
+  margin-top: 16px;
+  border-top: none;
+  padding-top: 0;
+}
+
+.vp-doc .suggestion-box .suggestion-button {
+  display: inline-block;
+  padding: 8px 20px;
+  border-radius: 20px;
+  background: var(--vp-button-brand-bg);
+  color: var(--vp-button-brand-text);
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.vp-doc .suggestion-box .suggestion-button:hover {
+  background: var(--vp-button-brand-hover-bg);
+}
+
+.vp-doc mjx-container { font-size: 120%; }                /* inline $...$ */
 .vp-doc mjx-container[display="true"] { font-size: 120%; }  /* block $$...$$ */
 
