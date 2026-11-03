@@ -7,3 +7,5 @@ Weekly notes to be updated throughout the semester
 - [Week 3 - Parametric Curves: Velocity and Acceleration](/notes/week-03)
 - [Week 4 - Inverse Trig Functions and Linear Tangent Lines](/notes/week-04)
 - [Week 5 - Implicit Derivatives, Related Rates and Optimization](/notes/week-05)
+- [Week 6 - Defining and Estimating Integrals as Areas](/notes/week-06)
+- [Week 7 - The Fundamental Theorem of Calculus](/notes/week-07)

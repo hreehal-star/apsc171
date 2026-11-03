@@ -32,6 +32,8 @@ export default defineConfig({
             { text: 'Week 3 - Velocity & Acceleration with Vector-Valued Functions', link: '/notes/week-03.md' },
             { text: 'Week 4 - Inverse Trigonometric Functions', link: '/notes/week-04.md' },
             { text: 'Week 5 - Implicit Derivatives, Related Rates and Optimization', link: '/notes/week-05.md' },
+            { text: 'Week 6 - Defining and Estimating Integrals as Areas', link: '/notes/week-06.md' },
+            { text: 'Week 7 - The Fundamental Theorem of Calculus', link: '/notes/week-07.md' },
           ],
         },
       ],
