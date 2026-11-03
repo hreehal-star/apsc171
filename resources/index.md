@@ -13,9 +13,8 @@ Webwork:
 Midterm 1 Information: 
 - Date: Tuesday October 6th @ 6:30 PM (Check OnQ for location)
 - Material Covered: Weeks 1-4
-- Notes on Midterm 1:
-  - 2024 and previous years had Test 1 covering Weeks 1-4, the same as this year, but in 2025 Test 1 only covered Weeks 1-3.
-  - No reference materials are allowed during tests and exams in APSC 171.
+- Note 1: 2024 and previous years had Test 1 covering Weeks 1-4, the same as this year, but in 2025 Test 1 only covered Weeks 1-3.
+- Note 2: No reference materials are allowed during tests and exams in APSC 171.
 
 Past Test 1s:
 
@@ -58,40 +57,9 @@ Past Test 1s:
 </ul>
   </details>
 
-Midterm 2 Information:
+Midterm 2:
 - Date: Tuesday November 10th @ 6:30 PM	(Check OnQ for location)
 - Material Covered: Weeks 5-8
-- Notes on Midterm 2:
-  - 2024 and earlier, Test 2 covered Weeks 5-8, the same as this year, but in 2025 it covered Weeks 4-7.
-  - L'Hopital's rule isn't covered at all this year.
-  - Using integrals to find volumes and work (e.g. lifting chains, lifting or pouring out water) will be covered in Week 9 (so won't be on Test 2, but would be covered in the final exam).
-  - The numerator/denominator problems with integration are integrating using "partial fractions"; this will be covered in Week 9 (so won't be on Test 2, but would be covered in the final exam).
-  - No reference materials are allowed during tests and exams in APSC 171.
-
-Past Test 2s:
-
-<table style="width:auto; display:table;">
-  <thead>
-    <tr><th>Year</th><th>Blank</th><th>Solutions</th></tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>2025</td>
-      <td><a href="/apsc171/resources/APSC171_Test2_2025_Blank.pdf" target="_blank" rel="noopener noreferrer">Blank</a></td>
-      <td><a href="/apsc171/resources/APSC171_Test2_2025_Solutions.pdf" target="_blank" rel="noopener noreferrer">Solutions</a></td>
-    </tr>
-    <tr>
-      <td>2024</td>
-      <td><a href="/apsc171/resources/APSC171_Test2_2024_Blank.pdf" target="_blank" rel="noopener noreferrer">Blank</a></td>
-      <td><a href="/apsc171/resources/APSC171_Test2_2024_Solutions.pdf" target="_blank" rel="noopener noreferrer">Solutions</a></td>
-    </tr>
-    <tr>
-      <td>2023</td>
-      <td><a href="/apsc171/resources/APSC171_Test2_2023_Blank.pdf" target="_blank" rel="noopener noreferrer">Blank</a></td>
-      <td><a href="/apsc171/resources/APSC171_Test2_2023_Solutions.pdf" target="_blank" rel="noopener noreferrer">Solutions</a></td>
-    </tr>
-  </tbody>
-</table>
 <details>
   <summary>Formulas, Graphs, and Derivatives you need to know</summary>
 
