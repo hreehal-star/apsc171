@@ -37,3 +37,7 @@ Tutorials covered so far:
 
 <a href="/apsc171/solutions/APSC171_TUT_9.pdf" target="_blank" rel="noopener noreferrer">Week 9 Tutorial</a> <br>
 <a href="/apsc171/solutions/APSC171_Tutorial_9_Sol.pdf" target="_blank" rel="noopener noreferrer">Week 9 Tutorial Solutions</a><br><br>
+
+<a href="/apsc171/solutions/APSC171_TUT_10.pdf" target="_blank" rel="noopener noreferrer">Week 10 Tutorial</a> <br>
+<a href="/apsc171/solutions/APSC171_Tutorial_10_Sol.pdf" target="_blank" rel="noopener noreferrer">Week 10 Tutorial Solutions</a><br>
+<a href="/apsc171/solutions/APSC171_Note_on_Complex_Numbers.pdf" target="_blank" rel="noopener noreferrer">A Note on Complex Numbers</a><br><br>
